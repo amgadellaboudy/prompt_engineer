@@ -25,14 +25,6 @@ Built with OpenAI + LangChain + Streamlit, this tool acts as your personal promp
 
 ---
 
-## 🚀 Demo
-
-![Demo](demo/prompt_optimizer_demo.gif)
-
-> *You paste a broken prompt… It comes back structured, wrapped in delimiters, and ready for production use.*
-
----
-
 ## 📦 Quickstart
 
 ```bash
